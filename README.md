@@ -8,12 +8,6 @@
 
 ---
 
-## 🔗 배포 링크
-
-- 👉 [코코 바로가기](https://cokoedu.com)
-
----
-
 <!-- markdownlint-disable MD033 -->
 
 ## 👥 8기 팀원
